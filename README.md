@@ -1,2 +1,5 @@
-# vue-simplest-notification-component
-The simplest Vue 3 JS notification component
+# The Simplest Vue 3 Notification Component
+
+Ever.
+
+Seriously.
